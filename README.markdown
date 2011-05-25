@@ -4,11 +4,12 @@ Web Scrapers in Ruby
 Tools used
 ======
 * Ruby
-* Mechanize
-* Mongo
-* Parallel
-* Typhoeus
-* Delayed Job
+* Mechanize (Crawler and Parser) [github](https://github.com/tenderlove/mechanize/ "Mechanize")
+* MongoDB (Database) [github](https://github.com/mongodb/mongo "Mongo")
+* Mongo Ruby Driver [github](https://github.com/mongodb/mongo-ruby-driver "Mongo Ruby Driver")
+* Parallel (Multi threading, Multi Processing) [github](https://github.com/grosser/parallel "Parallel")
+* Typhoeus (Concurrent HTTP requests) [github](https://github.com/dbalatero/typhoeus "Typhoeus")
+* Delayed Job (ASync Background Job) [github](https://github.com/tobi/delayed_job "Delayed Job")
 
 Samples
 ======
